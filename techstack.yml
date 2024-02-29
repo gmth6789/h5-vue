@@ -2,7 +2,7 @@ repo_name: gmth6789/h5-vue
 report_id: 3022673f849c1937ec52355930fedc10
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:21:09+00:00'
+timestamp: '2024-02-29T18:08:47+00:00'
 requested_by: gmth6789
 provider: github
 branch: master
@@ -121,7 +121,7 @@ tools:
   last_updated_by: Mook.gm99
   last_updated_on: 2023-09-30 14:03:54.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
